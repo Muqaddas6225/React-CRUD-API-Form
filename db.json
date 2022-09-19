@@ -1,0 +1,41 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "Fname": "Hareem ",
+      "Lname": "Fyaz",
+      "email": "Hareem@gmail.com",
+      "contact": "0300-1234567",
+      "address": "dha phase 1 Lahore",
+      "designation": "developer"
+    },
+    {
+      "id": 2,
+      "Fname": "Aqsa",
+      "Lname": "Iqbal",
+      "email": "Aqsa@gmail.com",
+      "contact": "0301-1234567",
+      "address": "dha phase 2 Lahore",
+      "designation": "QA"
+    },
+    {
+      "id": 3,
+      "Fname": "Zab",
+      "Lname": "Ahmad",
+      "email": "Zab@gmail.com",
+      "contact": "0302-1234567",
+      "address": "dha phase 3 Lahore",
+      "designation": "Designer"
+    },
+    {
+      "stuname": "sohail",
+      "email": "aysha@gmail.com",
+      "Fname": "Aysha",
+      "contact": "03000-1234567",
+      "address": "dha phase 3 lahre",
+      "designation": "designer",
+      "id": 4,
+      "Lname": "sohail"
+    }
+  ]
+}
